@@ -14,6 +14,9 @@
 
 ## Roadmap
 
+- MVP first
+  - Dify 2.0 looks good
+
 ## Licensing
 
 This project is dual-licensed:
